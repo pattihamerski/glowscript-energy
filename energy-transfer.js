@@ -2,6 +2,8 @@ function foo() {
     return 42;
 }
 
+var booltest = false;
+
 function system_pairs(systems) {
     system_pairs = [];
     for (i = 0; i < systems.length; i++) { 
