@@ -2,4 +2,4 @@ function foo() {
     return 42;
 }
 
-var running = True;
+var running = true;
