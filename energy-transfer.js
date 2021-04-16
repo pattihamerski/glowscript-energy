@@ -2,7 +2,7 @@ function foo() {
     return 42;
 }
 
-var running = true;
+running = true;
 
 function system_pairs(systems) {
     system_pairs = [];
